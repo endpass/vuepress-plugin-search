@@ -1,0 +1,22 @@
+{
+  "name": "@endpass/vuepress-plugin-search",
+  "version": "1.0.0",
+  "description": "search plugin for vuepress",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/endpass/vuepress-plugin-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endpass/vuepress-plugin-search.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {}
+}
